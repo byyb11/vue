@@ -3,7 +3,9 @@
 import Vue from 'vue'
 import home from './page/home'
 import router from './router'
+import axios from 'axios'
 
+Vue.prototype.axios = axios
 Vue.config.productionTip = false
 /* eslint-disable no-new */
 new Vue({

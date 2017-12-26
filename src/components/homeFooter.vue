@@ -21,11 +21,11 @@ export default {
 <style lang="less" scoped>
   @font-face {
     font-family: 'iconfont';  /* project id 162648 */
-    src: url('http://at.alicdn.com/t/font_162648_ab7zi36jjtwt57b9.eot');
-    src: url('http://at.alicdn.com/t/font_162648_ab7zi36jjtwt57b9.eot?#iefix') format('embedded-opentype'),
-    url('http://at.alicdn.com/t/font_162648_ab7zi36jjtwt57b9.woff') format('woff'),
-    url('http://at.alicdn.com/t/font_162648_ab7zi36jjtwt57b9.ttf') format('truetype'),
-    url('http://at.alicdn.com/t/font_162648_ab7zi36jjtwt57b9.svg#iconfont') format('svg');
+    src: url('https://at.alicdn.com/t/font_162648_ab7zi36jjtwt57b9.eot');
+    src: url('https://at.alicdn.com/t/font_162648_ab7zi36jjtwt57b9.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_162648_ab7zi36jjtwt57b9.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_162648_ab7zi36jjtwt57b9.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_162648_ab7zi36jjtwt57b9.svg#iconfont') format('svg');
   }
   .iconfont{
     font-family:"iconfont" !important;
